@@ -4,8 +4,8 @@ Karma install
 1. 기본요구사항 : nodejs, npm
 
 2. Karma 설치
-> npm install -g karma
-> npm install -g karma-cli
+  npm install -g karma
+  npm install -g karma-cli
 
 3. Karma-Jasmine 모듈 설치
 npm install --save-dev karma-jasmine
