@@ -5,8 +5,8 @@ Karma install
 
 2. Karma 설치 
 
-npm install -g karma
-npm install -g karma-cli
+> npm install -g karma 
+> npm install -g karma-cli
 
 3. Karma-Jasmine 모듈 설치
 npm install --save-dev karma-jasmine
